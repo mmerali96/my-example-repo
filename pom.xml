@@ -37,7 +37,7 @@
     <version.fabric8-maven-plugin>4.3.0</version.fabric8-maven-plugin>
     <version.maven-surefire-plugin>2.22.2</version.maven-surefire-plugin>
     <version.restassured>4.1.1</version.restassured>
-    <version.resteasy>3.6.2.Final</version.resteasy>
+    <version.resteasy>4.5.7.Final</version.resteasy>
     <version.maven-resources-plugin>3.1.0</version.maven-resources-plugin>
     <version.maven-war-plugin>3.2.3</version.maven-war-plugin>
     <fabric8.generator.from>docker.io/openliberty/open-liberty-s2i:19.0.0.9</fabric8.generator.from>
